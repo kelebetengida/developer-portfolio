@@ -106,9 +106,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                         color: theme.tertiary80,
                     }}
                 >
-                    {tags.map((tag, id) => (
-                        <span key={id}>{tag}</span>
-                    ))}
+                    {tags}
                 </div>
             </div>
         </Fade>

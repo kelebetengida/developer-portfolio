@@ -1,29 +1,29 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "As a full-stack developer and instructor, I have achieved many notable accomplishments since I started my learning journey. My commitment to lifelong learning has been a driving force behind any success I have enjoyed, and I have completed a range of self-development courses through LinkedIn Learning to expand my skillset and knowledge. As an instructor, I have demonstrated a passion for sharing my knowledge with others to further my coding skills. My dedication to self-improvement has also led me to pursue an AWS certification, and I am currently working on a passion project that will give me the hands-on learning experience I need to achieve this goal.",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'Agile Software Development (certification of completion)',
+            details : 'In this course, I learn the fundamentals of agile for software developers, as well as why this approach is uniquely suited for software engineering.',
+            date : 'September 24, 2021',
+            field : 'AgileDevelopment',
+            image : 'https://www.richlandlibrary.com/sites/default/files/styles/4to3_1480x1112/public/2021-03/LinkedIn-Learning.png.webp?itok=-CBfUpy9'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'Learning Amazon Web Services (AWS) for Developers (certification of completion)',
+            details : 'This course provides a high-level overview, focusing on the AWS features and services of the most interest to Software Developers.',
+            date : 'December 29, 2022',
+            field : 'AWS',
+            image : 'https://media.licdn.com/dms/image/C561FAQG39-_S0afyJg/feedshare-document-cover-images_1280/0/1672383800244?e=1679205600&v=beta&t=rLmmzW_ICWYBSjYwuqEEvG8y7m0WxEj3PlSqW7qupSE'
         },
         {
-            id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            id : 2,
+            title : 'SQL Essential Training (2019) (certification of completion)',
+            details : 'SQL Essential Training is designed to help users understand the most common language for database wrangling, SQL. ',
+            date : 'July 28, 2021',
+            field : 'SQL',
+            image : 'https://media.licdn.com/dms/image/C561FAQG39-_S0afyJg/feedshare-document-cover-images_1280/0/1672383800244?e=1679205600&v=beta&t=rLmmzW_ICWYBSjYwuqEEvG8y7m0WxEj3PlSqW7qupSE'
         }
 
     ]

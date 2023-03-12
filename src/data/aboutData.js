@@ -1,6 +1,6 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    title: "Who I am ?",
+    description1: "My name's Kelebet. I'm a Full Stack Developer and instructor based in Seattle WA, US.",
+    description2: `Dedicated and efficient Full-stack Agile Developer with an Environmental Science degree (focusing on remote sensing data analytical skills) from the University of Washington. Have intermediate experience in Python (panda library). Recently graduated with a Certificate in Full Stack Web Development from Coding Boot Camp from the University of Washington. Well-rounded professional with communication and organizational skills. I really enjoy using my skill sets to support the entrepreneurial culture of startups and big companies.\n I recently worked in collaboration with a team of five to develop a single-page MERN stack application using MongoDB, GraphQL API, Express.js, and Node.js server with a React front end, implementing user authentication with JWT to build a user-focused networking hub where different professionals can network to tackle family situations to create more connections to help the foster system. \n \nPast experience in environmental data analysis has taught me current data is key to making informed scientific decisions in an ever-changing world. Led me to focus on object-oriented programming skills to automate and create efficient applications as well as applying my additional HTML, CSS, and JavaScript skills to solve challenging problems and foster growing success.`,
     image: 2
 }
